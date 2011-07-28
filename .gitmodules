@@ -26,3 +26,6 @@
 	path = bundle/pytest
 	url = https://github.com/alfredodeza/pytest.vim.git
 	ignore = dirty
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = git://git.wincent.com/command-t.git
